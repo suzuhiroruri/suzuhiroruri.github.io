@@ -5,7 +5,7 @@
     "description": "Beautiful Sunset.",
     "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/sunset.png",
     "video_url": "https://suzuhiroruri.github.io/resources/videos/sunset.mp4",
-    "video_duration": 97000
+    "video_duration": 10000
   },
   {
     "title": "Shore",
@@ -13,7 +13,7 @@
     "description": "Shore with wave.",
     "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/shore.png",
     "video_url": "https://suzuhiroruri.github.io/resources/videos/shore.mp4",
-    "video_duration": 75000
+    "video_duration": 22000
   },
   {
     "title": "Water",
@@ -21,7 +21,7 @@
     "description": "A cup of water.",
     "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/water.png",
     "video_url": "https://suzuhiroruri.github.io/resources/videos/water.mp4",
-    "video_duration": 86000
+    "video_duration": 4000
   },
   {
     "title": "Forest",
@@ -29,7 +29,7 @@
     "description": "Tropical forest",
     "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/forest.png",
     "video_url": "https://suzuhiroruri.github.io/resources/videos/forest.mp4",
-    "video_duration": 105000
+    "video_duration": 13000
   },
   {
     "title": "City",
