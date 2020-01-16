@@ -46,5 +46,13 @@
     "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/jellyfish.png",
     "video_url": "https://suzuhiroruri.github.io/resources/videos/jellyfish.mp4",
     "video_duration": 111000
+  },
+  {
+    "title": "Blue Sky",
+    "presenter_name": "Robert Downy",
+    "description": "Beautiful sky",
+    "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/blueSky.png",
+    "video_url": "https://suzuhiroruri.github.io/resources/videos/blueSky.mp4",
+    "video_duration": 25000
   }
 ]
