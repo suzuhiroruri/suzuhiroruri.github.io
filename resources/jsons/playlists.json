@@ -62,5 +62,13 @@
     "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/fireworks.png",
     "video_url": "https://suzuhiroruri.github.io/resources/videos/fireworks.mp4",
     "video_duration": 21000
+  },
+  {
+    "title": "Star",
+    "presenter_name": "Keith Red",
+    "description": "What a beautiful!",
+    "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/star.png",
+    "video_url": "https://suzuhiroruri.github.io/resources/videos/star.mp4",
+    "video_duration": 23000
   }
 ]
