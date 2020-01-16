@@ -37,7 +37,7 @@
     "description": "City at the foreign country",
     "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/city.png",
     "video_url": "https://suzuhiroruri.github.io/resources/videos/city.mp4",
-    "video_duration": 104000
+    "video_duration": 61000
   },
   {
     "title": "Jellyfish",
@@ -45,6 +45,6 @@
     "description": "Jellyfish underwater",
     "thumbnail_url": "https://suzuhiroruri.github.io/resources/images/jellyfish.png",
     "video_url": "https://suzuhiroruri.github.io/resources/videos/jellyfish.mp4",
-    "video_duration": 104000
+    "video_duration": 111000
   }
 ]
